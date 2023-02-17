@@ -1,7 +1,6 @@
 
 ## Olá, me chamo Arthur! ✌🏼
 
-## Sobre mim:
     Sou potiguar, atualmente tenho 20 anos e estou cursando ciência da computação;
     Trabalho como desenvolvedor front-end utilizando ReactJS com TypeScript como minhas tecnologias principais;
     Formado no curso técnico em informática pelo IFRN - Campus Santa Cruz.
