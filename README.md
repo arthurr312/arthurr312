@@ -1,5 +1,5 @@
 
-## Olá, me chamo Arthur! ✌🏼
+## Olá, me chamo Arthur!
 
     Sou potiguar, atualmente tenho 20 anos e estou cursando ciência da computação;
     Trabalho como desenvolvedor front-end utilizando Next.js com TypeScript como minhas tecnologias principais;
