@@ -6,7 +6,7 @@
     Formado no curso técnico em informática pelo IFRN - Campus Santa Cruz.
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurr312&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurr312&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurr312&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
