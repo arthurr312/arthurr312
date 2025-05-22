@@ -1,8 +1,8 @@
 
 ## Olá, me chamo Arthur!
 
-    Sou potiguar, atualmente tenho 20 anos e estou cursando ciência da computação;
-    Trabalho como desenvolvedor front-end utilizando Next.js com TypeScript como minhas tecnologias principais;
+    Sou potiguar, atualmente tenho 22 anos e estou cursando ciência da computação;
+    Trabalho como desenvolvedor front-end utilizando ReactJS com TypeScript como minhas tecnologias principais;
     Formado no curso técnico em informática pelo IFRN - Campus Santa Cruz.
 
 <div align="center">
@@ -19,7 +19,6 @@
     <img height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
     <img height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />    
     <img height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
-    <img height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 </div>
 
 <br>
